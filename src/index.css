@@ -1,0 +1,16 @@
+.chat-message-cstm {
+  margin-top: 20px;
+  margin-bottom: 0px;
+}
+
+.chat-message-cstm:nth-last-child(1) {
+  margin-bottom: 100px;
+}
+
+.rounded-user-cstm {
+  border-radius: 10px 10px 0 10px;
+}
+
+.rounded-ai-cstm {
+  border-radius: 10px 10px 10px 0;
+}
